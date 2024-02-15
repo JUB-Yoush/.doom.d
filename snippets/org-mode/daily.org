@@ -1,5 +1,5 @@
 # -*- mode:snippet -*-
-# name: <daily-note>
+# name: daily-note
 # --
 #+title: Daily Planner 
 #+date: `(format-time-string "%Y-%m-%d %a")`
