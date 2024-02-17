@@ -52,3 +52,5 @@
 
 ;; ME DOWN HERE
 (package! key-chord)
+(package! dap-mode)
+;;(package! dape)
